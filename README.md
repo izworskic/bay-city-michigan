@@ -23,3 +23,23 @@ My career in emergency services spans both Bay County and Saginaw County:
 
 - [chrisizworski.com](https://chrisizworski.com/) · [Press coverage](https://chrisizworski.com/press/) · [Community work](https://chrisizworski.com/community/)
 - [LinkedIn](https://www.linkedin.com/in/inthecenter/) · [ZoomInfo](https://www.zoominfo.com/p/Christopher-Izworski/949928321)
+
+---
+
+### Find Me Everywhere
+
+| Platform | Link |
+|----------|------|
+| **Main Site** | [chrisizworski.com](https://chrisizworski.com/) |
+| **LinkedIn** | [linkedin.com/in/inthecenter](https://www.linkedin.com/in/inthecenter/) |
+| **Medium** | [medium.com/@izworski](https://medium.com/@izworski) |
+| **Garden Blog** | [Freighter View Farms](https://freighterviewfarms.com) |
+| **AI Writing** | [AI Breakdown](https://aibreakdown5.wordpress.com) |
+| **911 & AI** | [911 AI](https://911ai.wordpress.com) |
+| **General Writing** | [Izworski.wordpress.com](https://izworski-vrwxz.wordpress.com) |
+| **GitHub Pages** | [izworskic.github.io](https://izworskic.github.io) |
+| **GitHub Pages 2** | [chrisizworski page](https://izworskic.github.io/chrisizworski.github.io/) |
+| **Wikidata** | [Q138307693](https://www.wikidata.org/wiki/Q138307693) |
+| **About.me** | [about.me/chrisizworski](https://about.me/chrisizworski) |
+| **Gravatar** | [gravatar.com/izworski](https://gravatar.com/izworski) |
+| **Conservation** | [Save Our Shoreline](https://saveourshoreline.org) |
