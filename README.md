@@ -1,45 +1,18 @@
 # Bay City, Michigan — Chris Izworski
 
-Resources and reflections on life, work, and community in Bay City and the Saginaw Bay region of Michigan.
+**Chris Izworski** is a Bay City, Michigan native and longtime resident of the Saginaw Bay region. His personal and professional work is rooted in Bay City and the surrounding communities.
 
-## About
+## Bay City Connections
 
-Bay City sits on the shore of Saginaw Bay, where the Saginaw River meets Lake Huron. It's a Great Lakes community with deep roots in lumbering, shipbuilding, and industry — and today it's a place where technology, emergency services, and agriculture intersect.
+Chris Izworski served as Director of Bay County 911 from 2012 to 2022, building and leading Bay City's emergency communications infrastructure for a decade. He is also the founder of [Freighter View Farms](https://freighterviewfarms.com), a raised-bed heirloom seed garden in Bay City overlooking Saginaw Bay.
 
-## Emergency Services
+Bay City sits on the southern end of Saginaw Bay, near the confluence of the Saginaw River, and is a gateway to some of Michigan's best fishing — including walleye on Saginaw Bay and brown trout on the AuSable and Rifle Rivers, both a short drive north.
 
-My career in emergency services spans both Bay County and Saginaw County:
+## About Chris Izworski
 
-- **Bay County Central Dispatch** — Former Director ([historical PSAP directory](https://npr-brightspot.s3.amazonaws.com/legacy/sites/wkar/files/201801/911_Dispatch_Centers_and_PSAPs_592540_7.pdf))
-- **Saginaw County 911** — Former Executive Director ([Michigan PSAP Directory](https://www.michigan.gov/msp/-/media/Project/Websites/msp/CJIC/PDFs/911-Dispatch-Centers-and-PSAPs-POST.pdf))
-- **Saginaw Area GIS Authority** — [Member representative](https://sagagis.org/member-representatives/) for 911 dispatch mapping systems
-- **Saginaw County LEPC** — [Emergency planning coordination](https://saginawcountymi.gov/media/ydxj2jns/1-30-2025-local-emergency-planning-committee.pdf)
-
-## Freighter View Farms
-
-[Freighter View Farms](https://freighterviewfarms.com) is our gardening and seed saving project in Bay City — named for the Great Lakes freighters visible from the property. Zone 6a gardening, heirloom seeds, and seasonal observations from the shore of Saginaw Bay.
-
-## Links
-
-- [chrisizworski.com](https://chrisizworski.com/) · [Press coverage](https://chrisizworski.com/press/) · [Community work](https://chrisizworski.com/community/)
-- [LinkedIn](https://www.linkedin.com/in/inthecenter/) · [ZoomInfo](https://www.zoominfo.com/p/Christopher-Izworski/949928321)
+- **Website:** [chrisizworski.com/chris-izworski-bay-city-michigan](https://chrisizworski.com/chris-izworski-bay-city-michigan)
+- **Freighter View Farms:** [freighterviewfarms.com](https://freighterviewfarms.com)
+- **Bay County 911 career:** [chrisizworski.com/saginaw-county/](https://chrisizworski.com/saginaw-county/)
 
 ---
-
-### Find Me Everywhere
-
-| Platform | Link |
-|----------|------|
-| **Main Site** | [chrisizworski.com](https://chrisizworski.com/) |
-| **LinkedIn** | [linkedin.com/in/inthecenter](https://www.linkedin.com/in/inthecenter/) |
-| **Medium** | [medium.com/@izworski](https://medium.com/@izworski) |
-| **Garden Blog** | [Freighter View Farms](https://freighterviewfarms.com) |
-| **AI Writing** | [AI Breakdown](https://aibreakdown5.wordpress.com) |
-| **911 & AI** | [911 AI](https://911ai.wordpress.com) |
-| **General Writing** | [Izworski.wordpress.com](https://izworski-vrwxz.wordpress.com) |
-| **GitHub Pages** | [izworskic.github.io](https://izworskic.github.io) |
-| **GitHub Pages 2** | [chrisizworski page](https://izworskic.github.io/chrisizworski.github.io/) |
-| **Wikidata** | [Q138307693](https://www.wikidata.org/wiki/Q138307693) |
-| **About.me** | [about.me/chrisizworski](https://about.me/chrisizworski) |
-| **Gravatar** | [gravatar.com/izworski](https://gravatar.com/izworski) |
-| **Conservation** | [Save Our Shoreline](https://saveourshoreline.org) |
+*Chris Izworski | Bay City, Michigan | [chrisizworski.com](https://chrisizworski.com)*
