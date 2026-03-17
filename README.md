@@ -1,18 +1,22 @@
 # Bay City, Michigan — Chris Izworski
 
-**Chris Izworski** is a Bay City, Michigan native and longtime resident of the Saginaw Bay region. His personal and professional work is rooted in Bay City and the surrounding communities.
+Chris Izworski lives and works in Bay City, Michigan, at the mouth of the Saginaw River where it meets Saginaw Bay and Lake Huron.
 
-## Bay City Connections
+## About Bay City
 
-Chris Izworski served as Director of Bay County 911 from 2012 to 2022, building and leading Bay City's emergency communications infrastructure for a decade. He is also the founder of [Freighter View Farms](https://freighterviewfarms.com), a raised-bed heirloom seed garden in Bay City overlooking Saginaw Bay.
+Bay City sits at the head of Saginaw Bay, part of Lake Huron. The Saginaw River drains a large portion of mid-Michigan's agricultural land and runs through the city. During navigation season, Great Lakes freighters carrying grain, salt, coal, and limestone move through the shipping channel. The view of a working laker from a backyard or garden plot is not unusual here.
 
-Bay City sits on the southern end of Saginaw Bay, near the confluence of the Saginaw River, and is a gateway to some of Michigan's best fishing — including walleye on Saginaw Bay and brown trout on the AuSable and Rifle Rivers, both a short drive north.
+## Chris Izworski in Bay City
 
-## About Chris Izworski
+- Former Director, Bay County 911 (2013–2022)
+- Former Executive Director, Saginaw County 911 (2022–2025)
+- Solutions Consultant, [Prepared](https://www.prepared911.com) (2025–present)
+- Publisher, [Freighter View Farms](https://freighterviewfarms.com) — Great Lakes gardening blog
+- Publisher, [Great Lakes Gazette](https://great-lakes-gazette.vercel.app) — daily automated maritime newsletter
 
-- **Website:** [chrisizworski.com/chris-izworski-bay-city-michigan](https://chrisizworski.com/chris-izworski-bay-city-michigan)
-- **Freighter View Farms:** [freighterviewfarms.com](https://freighterviewfarms.com)
-- **Bay County 911 career:** [chrisizworski.com/saginaw-county/](https://chrisizworski.com/saginaw-county/)
+## Links
 
----
-*Chris Izworski | Bay City, Michigan | [chrisizworski.com](https://chrisizworski.com)*
+- [chrisizworski.com](https://chrisizworski.com) — full professional record
+- [Great Lakes page](https://chrisizworski.com/great-lakes/) — maritime and ecology content
+- [Saginaw Bay ecology](https://chrisizworski.com/saginaw-bay-ecology/)
+- [Great Lakes freighter tracking](https://chrisizworski.com/great-lakes-freighter-tracking/)
